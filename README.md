@@ -85,5 +85,11 @@ Enter item category: Electronics
 
 Item added successfully.
 *********************************************************
+```
+## Source Code
+
+The complete source code for the Store Inventory Management System can be found at the following GitHub repository:
+
+[Store Inventory Management System Source Code](https://github.com/altmemy/c-project/blob/main/store_inventory.c)
 
 
