@@ -1,4 +1,4 @@
-# Course Project: Data Management System Application
+# Data Management System Application
 
 ## Project Requirements
 Develop a Data Management System allowing users to manage and track information for different entities. 
@@ -55,7 +55,35 @@ It enables the storekeepers to perform essential inventory operations such as ad
 ## Getting Started
 To run the program, compile the C file and execute the binary. Ensure that you have a C compiler installed on your system.
 
+## Sample Output
 
-سه
+Below is a sample interaction with the Store Inventory Management System, demonstrating the updated menu interface and some basic operations:
+
+```plaintext
+*********************************************************
+*           Store Inventory Management System           *
+*********************************************************
+* 1. Add Item >>                                        *
+---------------------------------------------------------
+* 2. Display Item Details >>                            *
+---------------------------------------------------------
+* 3. Update Item Details >>                             *
+---------------------------------------------------------
+* 4. Display All Items >>                               *
+---------------------------------------------------------
+* 5. Delete Item >>                                     *
+---------------------------------------------------------
+* 6. Exit >>                                            *
+*********************************************************
+>> 1
+
+Enter item ID: 101
+Enter item name: ExampleItem
+Enter item price: 19.99
+Enter item quantity: 100
+Enter item category: Electronics
+
+Item added successfully.
+*********************************************************
 
 
